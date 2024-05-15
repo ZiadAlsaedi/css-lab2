@@ -1,0 +1,179 @@
+
+*{
+    margin: 0;
+}
+
+.continer{
+    background-color: rgb(171, 179, 179);
+    width: 100vw;
+    height: 55vh;
+    position: relative;
+}
+.pos{
+    background-color: rgb(0, 0, 0);
+    width: 100vw;
+    height: 6vh;
+    position: fixed;
+    color: azure;
+ 
+}
+
+ul li{
+list-style-type: none;
+display: inline;
+margin: 10px 10px 0px 0px;
+font-size: large;
+}
+
+
+.head{
+    color: azure;
+    display:list-item;
+}
+
+.im1{
+width: 12rem;
+height: 8rem;
+position: absolute;
+top: 15%;
+left: 20%;
+}
+.im2{
+width: 12rem;
+height: 8rem;
+position: absolute;
+top: 50%;
+left: 34%;
+}
+
+
+.continer2{
+    background-color: rgb(247, 247, 247);
+    width: 100vw;
+    height: 42vh;
+    position: relative;
+}
+
+.pos2{
+    background-color: rgb(11, 215, 238);
+    width: 8vw;
+    height: 8vh;
+    position: relative;
+    left: 15%;
+    top: 7%;
+    box-shadow: -2px 2px 1px black;
+}
+
+.pos3{
+    background-color: rgb(171, 17, 243);
+    width: 8vw;
+    height: 8vh;
+    position: relative;
+    left: 23%;
+    top: 9%;
+    box-shadow: -2px 2px 1px black;
+}
+.pos4{
+    background-color: rgb(244, 8, 8);
+    width: 8vw;
+    height: 8vh;
+    position: relative;
+    left: 31%;
+    top: 14%;
+    box-shadow: -2px 2px  1px black,2px 2px 1px black;
+}
+
+.pos5{
+    background-color: rgb(15, 243, 34);
+    width: 8vw;
+    height: 8vh;
+    position: relative;
+    left: 39%;
+    top: -27.8%;
+    box-shadow:2px 2px 1px black;
+
+}
+
+.pos6{
+    background-color: rgb(249, 124, 6);
+    width: 8vw;
+    height: 8vh;
+    position: relative;
+    left: 48%;
+    top: -66.7%;
+    box-shadow:2px 2px 1px black;
+
+} .pos7{
+    background-color: rgb(11, 215, 238);
+    width: 8vw;
+    height: 8vh;
+    position: relative;
+    right: -57%;
+    bottom: 86%;
+    box-shadow: -2px 2px 1px black;
+
+}
+
+.pos8{
+    background-color: rgb(171, 17, 243);
+    width: 8vw;
+    height: 8vh;
+    position: relative;
+    right: -65%;
+    bottom: 81%;
+    box-shadow: -2px 2px 1px black;
+
+}
+.pos9{
+    background-color: rgb(244, 8, 8);
+    width: 8vw;
+    height: 8vh;
+    position: relative;
+    right: -73%;
+    bottom: 77%;
+    box-shadow: -2px 2px  1px black,2px 2px 1px black;
+
+}
+
+.pos10{
+    background-color: rgb(15, 243, 34);
+    width: 8vw;
+    height: 8vh;
+    position: relative;
+    right: -81%;
+    bottom: 118.2%;
+    box-shadow:2px 2px 1px black;
+
+}
+
+.pos11{
+    background-color: rgb(249, 124, 6);
+    width: 8vw;
+    height: 8vh;
+    position: relative;
+    right: -89%;
+    top: -160.7%;
+    box-shadow:2px 2px 1px black;
+
+}
+
+.lorem{
+    position: absolute;
+    right: 19%;
+    top: 27%;
+}
+
+.loremp{
+    position: absolute;
+    left: 57%;
+    top: 47%;
+    width: 36%;
+
+}
+
+.footer{
+    background-color: black;
+    color: azure;
+    text-align: center;
+
+}
